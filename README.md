@@ -1,5 +1,5 @@
-## Ejercicios Haskell
-  # Tarjeta de credito
+# Ejercicios Haskell
+  ## Tarjeta de credito
    ```Haskell
       main :: IO ()
       main = do
@@ -22,7 +22,7 @@
       putStrLn "¿Es un número de tarjeta válido?"
       print $ validate number
    ```
-  # Torres de Hanoi (Con el ejercicio 6 resuelto)
+  ## Torres de Hanoi (Con el ejercicio 6 resuelto)
   ```Haskell
       main :: IO ()
       main = do
